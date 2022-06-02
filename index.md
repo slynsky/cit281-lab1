@@ -1,2 +1,4 @@
-# Lab 1
+## Lab Purpose and Components
+
+## What I Learned
 
